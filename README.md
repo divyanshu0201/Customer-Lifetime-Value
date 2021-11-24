@@ -8,7 +8,7 @@ This project is a part of the SEMESTER 6 Capstone project at [B.M.S College of E
 The purpose of this project is to build various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Furthermore, choosing the most appropriate model based on its accuracy score.
 
 ### Partner
-* Partner contact: [Dr. Umadevi V.], [https://sites.google.com/site/drvumadevi/]
+* Partner contact: [Dr. Umadevi V.] [https://sites.google.com/site/drvumadevi/]
 * Department of Computer Science & Engineering, BMS College of Engineering, Bengaluru
 
 ### Methods Used
