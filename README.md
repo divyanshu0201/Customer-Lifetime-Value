@@ -17,14 +17,10 @@ The purpose of this project is Building various Machine & Deep Learning Models t
 * Data Visualization
 * Predictive Modeling
 
-### Technologies
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+### Algorithms
+* Multiclass Classification using Random Forest
+* Deep Learning – ANN
+* Multiclass Classification using Logistic Regression
 
 ## Project Objective
 
