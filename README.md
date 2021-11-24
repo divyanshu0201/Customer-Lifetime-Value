@@ -47,7 +47,7 @@ We built various Machine & Deep Learning Models that will be able to predict C.L
 
 #### Other Members:
 
-|Name     |  Slack Handle   | 
+|Name     |   Handle   | 
 |---------|-----------------|
 |[Mohammad Arafat Khan](https://github.com/Arafat2198)  | @MohammadArafatKhan |
 |[Siddhartha Ghosh](https://github.com/siddhartha2000)  | @SiddharthaGhosh    |
