@@ -2,7 +2,7 @@
 # CUSTOMER LIFETIME VALUE PREDICTOR
 This project is a part of the SEMESTER 6 Group project at [B.M.S College of Engineering](https://bmsce.ac.in/).  
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is Building various Machine & Deep Learning Models that will be able to predict C.L.V by learning from the previous data. And choosing the most appropriate model, based on its accuracy score.
