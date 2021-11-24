@@ -8,8 +8,8 @@ This project is a part of the SEMESTER 6 Group project at [B.M.S College of Engi
 The purpose of this project is to build various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Furthermore, choosing the most appropriate model based on its accuracy score.
 
 ### Partner
-* [Department of C.S.E BMS College of Engineering]
 * Partner contact: [Umadevi V.], [https://sites.google.com/site/drvumadevi/]
+* Department of Computer Science & Engineering, BMS College of Engineering, Bengaluru
 
 ### Methods Used
 * Inferential Statistics
