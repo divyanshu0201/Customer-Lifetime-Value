@@ -4,8 +4,8 @@ This project is a part of the SEMESTER 6 Group project at [B.M.S College of Engi
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
-The purpose of this project is Building various Machine & Deep Learning Models that will be able to predict C.L.V by learning from the previous data. And choosing the most appropriate model, based on its accuracy score.
+## Project Objective
+The purpose of this project is to build various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Furthermore, choosing the most appropriate model based on its accuracy score.
 
 ### Partner
 * [Department of C.S.E BMS College of Engineering]
@@ -33,7 +33,7 @@ The purpose of this project is Building various Machine & Deep Learning Models t
 * Visualization of the Dataset 
 * Data Set Analysis 
 
-We built various Machine & Deep Learning Models that will be able to predict C.L.V by learning from the previous data. And choosing the most appropriate model, based on its accuracy score.
+We built various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Moreover, choosing the most appropriate model based on its accuracy score.
 
 ## Needs of this project
 
