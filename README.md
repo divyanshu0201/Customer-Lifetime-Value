@@ -5,7 +5,7 @@ This project is a part of the SEMESTER 6 Capstone project at [B.M.S College of E
 #### -- Project Status: [Completed]
 
 ## Project Objective
-The purpose of this project is to build various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Furthermore, choosing the most appropriate model based on its accuracy score.
+This project aims to build various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Furthermore, choosing the most appropriate model based on its accuracy score.
 
 ### Partner
 * Partner contact: [Dr. Umadevi V.] [https://sites.google.com/site/drvumadevi/]
@@ -24,14 +24,14 @@ The purpose of this project is to build various Machine & Deep Learning Models t
 
 ## Project Objective
 
-* Obtaining Dataset 
-* Identify the Problem Type
-* Brief analysis on the Models to be used
-* Create a High Level Design, Use Case Design, 
-* Building a Machine Learning Model That will be able to predict CLV by learning from the previous data.
-* Analysing the Accuracy 
-* Visualization of the Dataset 
-* Data Set Analysis 
+* Obtaining dataset. 
+* Identify the problem type.
+* Brief analysis on the models to be used.
+* Created a High Level Design & Use Case Design. 
+* Building a Machine Learning Model that will predict CLV by learning from the previous data.
+* Analysing the accuracy 
+* Visualization of the dataset 
+* Data set analysis 
 
 We built various Machine & Deep Learning Models that will predict C.L.V by learning from the previous data. Moreover, choosing the most appropriate model based on its accuracy score.
 
