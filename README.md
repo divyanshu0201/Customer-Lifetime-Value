@@ -1,5 +1,5 @@
 
-# Project Name
+# CUSTOMER LIFETIME VALUE PREDICTOR
 This project is a part of the SEMESTER 6 Group project at [B.M.S College of Engineering](https://bmsce.ac.in/).  
 
 #### -- Project Status: [Active, On-Hold, Completed]
